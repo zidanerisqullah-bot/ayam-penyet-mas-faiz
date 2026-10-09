@@ -3,3 +3,7 @@ WARUNG MAKAN AYAM PENYET MAS FAIZ
 ============================================================
 PROFIL WARUNG:
 Warung Makan Ayam Penyet Mas Faiz merupakan warung makan khas kota palu dengan menyediakan makanan khas Indonesia dengan harga terjangkau.
+
+MENU MAKANAN:
+
+1. Ayam Penyet Original = Rp. 15.000
