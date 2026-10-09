@@ -17,3 +17,9 @@ MENU TAMBAHAN:
 1. Nasi Putih = Rp. 5.000
 2. Tempe Goreng = Rp. 13.000
 3. Tahu Goreng = Rp. 13.000
+
+MINUMAN:
+
+1. Es Teh Manis = Rp. 5.000
+2. Es Jeruk = Rp. 6.000
+3. Air Mineral = Rp. 4.000
