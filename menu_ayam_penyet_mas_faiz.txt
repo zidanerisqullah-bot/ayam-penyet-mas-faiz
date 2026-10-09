@@ -7,3 +7,4 @@ Warung Makan Ayam Penyet Mas Faiz merupakan warung makan khas kota palu dengan m
 MENU MAKANAN:
 
 1. Ayam Penyet Original = Rp. 15.000
+2. Ayam Penyet Sambal Ijo = Rp. 17.000
