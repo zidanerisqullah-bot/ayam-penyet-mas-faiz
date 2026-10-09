@@ -11,3 +11,9 @@ MENU MAKANAN:
 3. Ayam Penyet Sambal Bawang = Rp. 17.000
 4. Ayam Geprek = Rp. 15.000
 5. Lele Penyet = Rp. 13.000
+
+MENU TAMBAHAN:
+
+1. Nasi Putih = Rp. 5.000
+2. Tempe Goreng = Rp. 13.000
+3. Tahu Goreng = Rp. 13.000
