@@ -9,3 +9,4 @@ MENU MAKANAN:
 1. Ayam Penyet Original = Rp. 15.000
 2. Ayam Penyet Sambal Ijo = Rp. 17.000
 3. Ayam Penyet Sambal Bawang = Rp. 17.000
+4. Ayam Geprek = Rp. 15.000
